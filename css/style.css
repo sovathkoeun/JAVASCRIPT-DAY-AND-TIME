@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 90%;
+    background: linear-gradient(blue,red,orange);
+}
+h1{
+    font-size: 80px;
+    color: aliceblue;
+}
+h2{
+    font-size: 50px;
+    background: linear-gradient(red,orange,blue);
+}
